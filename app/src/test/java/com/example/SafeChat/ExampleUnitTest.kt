@@ -1,5 +1,4 @@
 package com.example.SafeChat
-
 import org.junit.Test
 
 import org.junit.Assert.*
